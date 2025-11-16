@@ -1,0 +1,11 @@
+style "allblack"
+{
+    bg[NORMAL] = "#000000"
+    fg[NORMAL] = "#FFFFFF"
+    base[NORMAL] = "#000000"
+    text[NORMAL] = "#FFFFFF"
+    xthickness = 1
+    ythickness = 1
+}
+
+widget_class "*" style "allblack"

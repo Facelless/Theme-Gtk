@@ -19,4 +19,4 @@ O tema é focado em cores escuras com detalhes em branco, proporcionando um visu
 1. Clone ou faça o download deste repositório:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/allblack-xfce4-theme.git
+git clone https://github.com/Facelless/Theme-Gtk.git
